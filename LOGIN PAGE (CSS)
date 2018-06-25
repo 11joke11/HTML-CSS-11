@@ -1,0 +1,13 @@
+h1{
+color: white;
+font-family: impact;
+}
+body{
+text-align: center;
+    color: white;
+    background:black;
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-top: 90;
+}
