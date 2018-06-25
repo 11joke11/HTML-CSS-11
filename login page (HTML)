@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>PRE ACC</title>
+<link rel="stylesheet" href="style4.css"
+</head>
+<body>
+    <center><h1>PREMIUM ACOUNTsetup</h1>
+    code:    <input type="code" name="code"><br/><br/>    
+ASK-email:   <input type="email" name="email"><br/><br/>     
+google email:<input type="gemail" name="gemail"><br/><br/>
+set premium password:<input type="password" name="password"><br/><br/>        
+set premium username:<input type="gemail" name="gemail"><br/><br/>
+<a href="premium menu.html">sign up</a>
+</body>
+</html>
